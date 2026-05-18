@@ -17,7 +17,7 @@ The dataset contains medical records and personal attributes, including:
 * **Language:** Python
 * **Data Processing & Math:** Pandas, NumPy
 * **Machine Learning:** Scikit-Learn (Multiple Linear Regression)
-* **Data Visualization:** Matplotlib, Seaborn
+* **Data Visualization:** Matplotlib
 
 ## Machine Learning Pipeline
 1. **Exploratory Data Analysis (EDA):** Visualizing feature correlations to understand the hidden relationships in the data, specifically isolating the impact of lifestyle choices on financial cost.
@@ -36,4 +36,4 @@ The dataset contains medical records and personal attributes, including:
 git clone https://github.com/Vishnu-Ai-Dev/ML_Foundation_Projects.git
 
 # Navigate directly into the medical insurance project folder
-cd ML_Foundation_Projects/01_medical_insurance
+CD ML_Foundation_Projects/01_medical_insurance
